@@ -1,8 +1,14 @@
-### Hi there! 
+# Hi there! 
 
 I'm Vdsz, an IT, Networking and Programming student in Hungary.
-Currently I learn C#, HTML, CSS, Js and Ubuntu Linux. I will study SQL in a year.
-I studied and used Discord.js on my own.
+Currently I learn: 
+- **C#**
+- **HTML**
+- **CSS**
+- **Js** 
+- **Ubuntu Linux**. 
+I will study **SQL** in a year.
+I studied and used **Discord.js** on my own.
 I used Bootstrap in the past, as well as had a few classes about Debian Linux.
 Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.
 
