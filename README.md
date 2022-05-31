@@ -6,7 +6,8 @@ Currently I learn:
 - **HTML**
 - **CSS**
 - **Js** 
-- **Ubuntu Linux**.  
+- **Ubuntu Linux**.
+  
 I will study **SQL** in a year.  
 I studied and used **Discord.js** on my own.  
 I used **Bootstrap** in the past, as well as had a few classes about **Debian Linux**.  
