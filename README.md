@@ -43,5 +43,6 @@ Test Test Test
   <a href = "mailto:vdszdavid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.reddit.com/user/VdszHun"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/Vdsz_17_Hun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="" target="_blank"></a>
+  <a href = "https://open.spotify.com/user/uysy7imb8zbz1kyi5ynrdt6mr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href = "https://soundcloud.com/user-992830942"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
 </div>
