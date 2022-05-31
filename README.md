@@ -32,7 +32,7 @@ Test Test Test
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-<img align="right" height="150" style="border-radius:50px;" src="https://tenor.com/view/gwain-saga-gs-geo-geoexe-gif-25633836">
+<img align="right" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/Dq2I2a1K1CS-vYr65_X0OwKN9fOLZWryC0d0M70aYzg/https/media.tenor.com/boHTBTnK1Y4AAAPo/gwain-saga-gs.mp4">
   
 
 </div>
