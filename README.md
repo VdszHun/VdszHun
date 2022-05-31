@@ -32,6 +32,7 @@ Test Test Test
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+<img align="right" height="150" style="border-radius:50px;" src="https://tenor.com/view/gwain-saga-gs-geo-geoexe-gif-25633836">
   
 
 </div>
