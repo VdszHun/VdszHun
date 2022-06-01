@@ -47,5 +47,5 @@ Currently I only use GitHub to just report bugs and share ideas on a Minecraft s
   
 </div>
 
-Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.
+Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
 Special thanks to `A Random Personn` for testing this readme.
