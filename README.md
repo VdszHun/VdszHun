@@ -5,7 +5,7 @@ Currently I learn:
 - **C#**
 - **HTML**
 - **CSS**
-- **Js** 
+- **JavaScript** 
 - **Ubuntu Linux**.
   
 I will study **SQL** in a year.  
