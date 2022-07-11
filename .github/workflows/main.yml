@@ -6,7 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
+      # default is every 6 hours
+      # write a number between 1-24 after the / to change the frequency in hours
     - cron: "0 */24 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
