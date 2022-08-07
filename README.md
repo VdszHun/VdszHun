@@ -52,6 +52,6 @@ Using **US** format.
   
 </div>
 
-Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, something that can be found above in the text.
+Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, something that can be found above in the text.  
 Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
 Special thanks to `A Random Person` for testing this readme.
