@@ -13,9 +13,8 @@ I studied and used **Discord.js** on my own.
 I used **Bootstrap** in the past, as well as had a few classes about **Debian Linux**.  
 Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.  
 
-
-My discord account: Vdsz#1131  
-Last updated on: *08. 07. 2022.*  
+ 
+Last updated on: *08. 10. 2022.*  
 Using **US** format.  
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VdszHun&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -52,6 +51,6 @@ Using **US** format.
   
 </div>
 
-Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, something that can be found above in the text.  
+Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests.
 Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
 Special thanks to `A Random Person` for testing this readme.
