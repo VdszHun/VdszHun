@@ -51,6 +51,6 @@ Using **US** format.
   
 </div>
 
-Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests.
+Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests.  
 Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
 Special thanks to `A Random Person` for testing this readme.
