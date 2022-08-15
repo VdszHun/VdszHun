@@ -10,6 +10,7 @@ Currently I learn:
   
 I will study **SQL** in a year.  
 I studied and used **Discord.js** on my own.  
+I use **Cisco Packet Tracer** for learning how Networks work.  
 I used **Bootstrap** in the past, as well as had a few classes about **Debian Linux**.  
 Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.  
 
