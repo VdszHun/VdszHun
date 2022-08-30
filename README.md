@@ -14,7 +14,7 @@ I use **Cisco Packet Tracer** for learning how Networks work.
 I stuided and used **Bootstrap** in the past.  
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
 
-***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.  
+***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
  
 Last updated on: *08. 30. 2022.*  
