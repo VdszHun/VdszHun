@@ -9,7 +9,7 @@ Currently I learn:
 - **Ubuntu Linux**.
   
 I will study **SQL** in a few months.  
-I studied and used **Discord.js** on my own.  
+I studied and use **Discord.js** on my own to this day to develop a personal Discord bot.  
 I use **Cisco Packet Tracer** for learning how Networks work.  
 I stuided and used **Bootstrap** in the past.  
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
