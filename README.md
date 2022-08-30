@@ -8,14 +8,16 @@ Currently I learn:
 - **JavaScript** 
 - **Ubuntu Linux**.
   
-I will study **SQL** in a year.  
+I will study **SQL** in a few months.  
 I studied and used **Discord.js** on my own.  
 I use **Cisco Packet Tracer** for learning how Networks work.  
-I used **Bootstrap** in the past, as well as had a few classes about **Debian Linux**.  
-Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.  
+I stuided and used **Bootstrap** in the past.  
+I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
+
+***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.  
 
  
-Last updated on: *08. 17. 2022.*  
+Last updated on: *08. 30. 2022.*  
 Using **US** format.  
 
 It is not recommended to fork this repository, since this is a personal repo.  
