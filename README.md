@@ -18,6 +18,8 @@ Currently I only use GitHub to just report bugs and share ideas on a Minecraft s
 Last updated on: *08. 17. 2022.*  
 Using **US** format.  
 
+It is not recommended to fork this repository, since this is a personal repo.  
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VdszHun&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VdszHun&show_icons=true&count_private=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
