@@ -17,7 +17,7 @@ I had a few classes about **Debian Linux**, but my knowledge of that is nowhere 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
  
-Last updated on: *08. 30. 2022.*  
+Last updated on: *09. 30. 2022.*  
 Using **US** format.  
 
 It is not recommended to fork this repository, since this is a personal repo.  
