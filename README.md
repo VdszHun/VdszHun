@@ -1,6 +1,7 @@
 # Hello there! 
 
 I'm Vdsz, an IT, Networking and Programming student in Hungary.  
+  
 Currently I study: 
 - **C#**
 - **HTML**
