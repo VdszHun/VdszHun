@@ -10,7 +10,7 @@ Currently I study:
 - **Ubuntu Linux**.
   
 I just started studying:
-- **VBA (Microsoft Excel 2022)**
+- **VBA (Macros in Microsoft Excel 2022)**
 
 I will study **SQL** in a few weeks.  
 I studied and use **Discord.js** on my own to this day to develop a personal Discord bot.  
