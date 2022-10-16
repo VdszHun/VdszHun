@@ -1,14 +1,17 @@
-# Hi there! 
+# Hello there! 
 
 I'm Vdsz, an IT, Networking and Programming student in Hungary.
-Currently I learn: 
+Currently I study: 
 - **C#**
 - **HTML**
 - **CSS**
 - **JavaScript** 
 - **Ubuntu Linux**.
   
-I will study **SQL** in a few months.  
+I just started studying:
+- **VBA (Microsoft Excel 2022)**
+
+I will study **SQL** in a few weeks.  
 I studied and use **Discord.js** on my own to this day to develop a personal Discord bot.  
 I use **Cisco Packet Tracer** for learning how Networks work.  
 I studied and used **Bootstrap** in the past.  
@@ -17,7 +20,7 @@ I had a few classes about **Debian Linux**, but my knowledge of that is nowhere 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
  
-Last updated on: *09. 30. 2022.*  
+Last updated on: *10. 16. 2022.*  
 Using **US** format.  
 
 It is not recommended to fork this repository, since this is a personal repo.  
