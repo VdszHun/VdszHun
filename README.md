@@ -9,7 +9,7 @@ Currently I study:
 - **JavaScript** 
 - **Ubuntu Linux**.
   
-I just started studying:
+I started studying recently (less than 3 months of experience):
 - **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
 - **MySQL**
  
