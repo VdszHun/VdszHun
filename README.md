@@ -17,6 +17,7 @@ I studied and use **Discord.js** on my own to this day to develop a personal Dis
 I use **Cisco Packet Tracer** for learning how Networks work.  
 I studied and used **Bootstrap** in the past.  
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
+*Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP and Virtual Box.*  
 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
