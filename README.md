@@ -10,9 +10,9 @@ Currently I study:
 - **Ubuntu Linux**.
   
 I just started studying:
-- **VBA (Macros in Microsoft Excel 2022)**
-
-I will study **SQL** in a few weeks.  
+- **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
+- **MySQL**
+ 
 I studied and use **Discord.js** on my own to this day to develop a personal Discord bot.  
 I use **Cisco Packet Tracer** for learning how Networks work.  
 I studied and used **Bootstrap** in the past.  
@@ -21,7 +21,7 @@ I had a few classes about **Debian Linux**, but my knowledge of that is nowhere 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
  
-Last updated on: *10. 16. 2022.*  
+Last updated on: *12. 07. 2022.*  
 Using **US** format.  
 
 It is not recommended to fork this repository, since this is a personal repo.  
