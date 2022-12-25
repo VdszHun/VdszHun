@@ -10,8 +10,8 @@ Currently I study:
 - **Ubuntu Linux**.
   
 I started studying recently (less than 3 months of experience):
-- **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
 - **MySQL**
+- **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
  
 I studied and use **Discord.js** on my own to this day to develop a personal Discord bot.  
 I use **Cisco Packet Tracer** for learning how Networks work.  
