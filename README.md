@@ -25,7 +25,7 @@ I had a few classes about **Debian Linux**, but my knowledge of that is nowhere 
 Last updated on: *12. 07. 2022.*  
 Using **US** format.  
 
-It is not recommended to fork this repository, since this is a personal repo.  
+
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VdszHun&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VdszHun&show_icons=true&count_private=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,4 +64,6 @@ It is not recommended to fork this repository, since this is a personal repo.
 Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests.  
   
 Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
-Special thanks to `A Random Person` for testing this readme.
+Special thanks to `A Random Person` for testing this readme.  
+  
+It is not recommended to fork this repository, since this is a personal repo.  
