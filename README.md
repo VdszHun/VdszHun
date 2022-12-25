@@ -22,7 +22,7 @@ I had a few classes about **Debian Linux**, but my knowledge of that is nowhere 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
  
-Last updated on: *12. 07. 2022.*  
+Last updated on: *12. 25. 2022.*  
 Using **US** format.  
 
 
