@@ -21,7 +21,8 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
-- [x] test
+- [ ] This will be a new field soon for accomplishments and future goals.
+- [x] 
  
 Last updated on: *12. 25. 2022.*  
 Using **US** format.  
