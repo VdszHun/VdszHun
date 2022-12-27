@@ -21,10 +21,16 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 
 ***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
 
-- [ ] This will be a new field soon for accomplishments and future goals.
-- [x] 
+**My future goals and accomplishments:**
+- [ ] Office Software and Linux
+- [ ] Graduation of basic subjects (This includes Math, History, Literature, Hungarian and English on Advanced level) (May-June 2023)
+- [ ] Graduation of my profession (This includes IT, Networking, HTML, CSS, C# (Windows Form and Console Apps), JavaScript and MySQL) (May-June 2023)
+- [ ] B2 English Language Exam (The basic level) (May-June 2023)
+- [ ] A2 English Language Exam (The advanced level) (Not yet known)
+- [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
+
  
-Last updated on: *12. 25. 2022.*  
+Last updated on: *12. 27. 2022.*  
 Using **US** format.  
 
 
@@ -63,7 +69,7 @@ Using **US** format.
   
 </div>
   
-Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests.  
+Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests on GitHub.  
   
 Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
 Special thanks to `A Random Person` for testing this readme.  
