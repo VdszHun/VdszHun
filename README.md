@@ -26,12 +26,12 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Office Software and Linux secondary profession qualification (February 15, 2023)
 - [ ] Graduation of basic subjects (This includes Math, World History, Literature, Hungarian and English on Advanced level) (May-June 2023)
 - [ ] Graduation of my profession (This includes IT, Networking, HTML, CSS, C# (Windows Form and Console Apps), JavaScript and MySQL) (May-June 2023)
-- [ ] B2 English Language Exam (The basic level) (May-June 2023)
-- [ ] C2 English Language Exam (The master level) (Not yet planned)
+- [ ] B2 First (English Language Exam, the basic level) (May-June 2023)
+- [ ] C2 Proficiency (English Language Exam, the master level) (Not yet planned)
 - [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
 
  
-Last updated on: *12. 27. 2022.*  
+Last updated on: *12. 28. 2022.*  
 Using **US** format.  
 
 
