@@ -32,7 +32,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
 
  
-Last updated on: *01.14.2023*  
+Last updated on: *01.20.2023*  
 Using **US** format.  
 
 
@@ -72,7 +72,8 @@ Using **US** format.
 </div>
   
 Please note that the Discord button simply redirects you to Discord's official website, that button is simply meant to represent that I am available on Discord, but currently I don't accept friend requests on GitHub.  
-  
+Crypto and NFT people DNI.
+ 
 Special thanks to `rafaballerini` and `anuraghazra` for making this readme possible.  
 Special thanks to `A Random Person` for testing this readme.  
   
