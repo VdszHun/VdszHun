@@ -24,7 +24,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 
 **My future goals and accomplishments:**
 - [x] Basic level English Graduation (July 5, 2022 with 90% score ^^)
-- [ ] Office Software and Linux secondary profession qualification (February 15, 2023)
+- [x] Office Software and Linux secondary profession qualification (February 15, 2023, passed but don't know percentage yet)
 - [ ] Graduation of basic subjects (This includes Math, World History, Literature, Hungarian and English on Advanced level) (May-June 2023)
 - [ ] Graduation of my profession (This includes IT, Networking, HTML, CSS, C# (Windows Form and Console Apps), JavaScript and MySQL) (May-June 2023)
 - [ ] B2 First (State Accredited Language Examination Certificate, the basic level) (May-June 2023)
@@ -32,7 +32,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
 
  
-Last updated on: *01.20.2023*  
+Last updated on: *02.28.2023*  
 Using **US** format.  
 
 
@@ -61,7 +61,7 @@ Using **US** format.
   <a href="https://www.youtube.com/channel/UCvOiRMvGy7ytuZrodpQmXnA/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/vdszhun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vdszdavid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.reddit.com/user/VdszHun"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/Vdsz_17_Hun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/uysy7imb8zbz1kyi5ynrdt6mr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
