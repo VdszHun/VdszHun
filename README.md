@@ -15,7 +15,7 @@ I started studying recently (less than 3 months of experience):
 
 - **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
 
-I studied and used **Discord.js** on my own to develop a personal Discord bot. Inactive project for now.
+I studied and used **Discord.js** on my own to develop a personal Discord bot. Inactive project for now.  
 I use **Cisco Packet Tracer** for learning how Networks work.    
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
 Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisco Packet Tracer and Virtual Box.  
@@ -24,7 +24,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 
 **My future goals and accomplishments:**
 - [x] Basic level English Graduation (July 5, 2022 with 90% score ^^)
-- [x] Office Software and Linux secondary profession qualification (February 15, 2023, passed but don't know percentage yet)
+- [x] Office Software and Linux secondary profession qualification (February 15, 2023, passed, no details for now)
 - [ ] Graduation of basic subjects (This includes Math, World History, Literature, Hungarian and English on Advanced level) (May-June 2023)
 - [ ] Graduation of my profession (This includes IT, Networking, HTML, CSS, C# (Windows Form and Console Apps), JavaScript and MySQL) (May-June 2023)
 - [ ] B2 First (State Accredited Language Examination Certificate, the basic level) (May-June 2023)
