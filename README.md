@@ -7,16 +7,16 @@ Currently I study:
 - **HTML**
 - **CSS**
 - **JavaScript** 
-- **Ubuntu Linux**.
-  
-I started studying recently (less than 3 months of experience):
+- **Bootstrap**
 - **MySQL**
+- **Ubuntu Linux**.
+
+I started studying recently (less than 3 months of experience):
+
 - **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
-- **Bootstrap** (Revising it soon)
- 
-I studied and use **Discord.js** on my own to this day to develop a personal Discord bot.  
-I use **Cisco Packet Tracer** for learning how Networks work.  
-I studied and used **Bootstrap** in the past.  
+
+I studied and used **Discord.js** on my own to develop a personal Discord bot. Inactive project for now.
+I use **Cisco Packet Tracer** for learning how Networks work.    
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
 Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisco Packet Tracer and Virtual Box.  
 
@@ -32,7 +32,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
 
  
-Last updated on: *02.28.2023*  
+Last updated on: *05.16.2023*  
 Using **US** format.  
 
 
