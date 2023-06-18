@@ -15,8 +15,8 @@ I started studying recently (less than 3 months of experience):
 
 - **VBA (Macros in Microsoft Excel 2022, 1 class so far)**
 
-I studied and used **Discord.js** on my own to develop a personal Discord bot. Inactive project for now.  
-I use **Cisco Packet Tracer** for learning how Networks work.    
+I studied and used **Discord.js** on my own to develop a personal Discord bot which is an inactive project for now.  
+I use **Cisco Packet Tracer** to study and make networks.    
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
 Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisco Packet Tracer and Virtual Box.  
 
@@ -32,7 +32,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
 
  
-Last updated on: *05.16.2023*  
+Last updated on: *06.18.2023*  
 Using **US** format.  
 
 
