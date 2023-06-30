@@ -24,7 +24,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 
 **My future goals and accomplishments:**
 - [x] Basic level English Graduation (July 5, 2022 with 90% score ^^)
-- [x] Office Software and Linux secondary profession qualification (February 15, 2023, passed, no details for now)
+- [x] Office Software and Linux secondary profession qualification (February 15, 2023)
 - [x] Graduation of basic subjects (This includes Math, World History, Literature, Hungarian and English on Advanced level) (May-June 2023)
 - [x] Graduation of my profession (This includes IT, Networking, HTML, CSS, C# (Windows Form and Console Apps), JavaScript and MySQL) (May-June 2023)
 - [x] B2 First (State Accredited Language Examination Certificate, the basic level) (May-June 2023)
