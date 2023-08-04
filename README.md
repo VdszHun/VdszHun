@@ -22,7 +22,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 
 ***Currently I don't use GitHub much, I hope it changes in the future though. What I mainly used the site for in the past was to report bugs and share ideas for a now shut down Minecraft community server, as well coded my Discord bot mentioned above.***  
 
-**My future goals and accomplishments:**
+**My accomplishments and future goals:**
 - [x] Basic level English Graduation (July 5, 2022 with 90% score ^^)
 - [x] Office Software and Linux secondary profession qualification (February 15, 2023)
 - [x] Graduation of basic subjects (This includes Math, World History, Literature, Hungarian and English on Advanced level) (May-June 2023)
