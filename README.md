@@ -29,7 +29,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [x] Graduation of my profession (This includes IT, Networking, HTML, CSS, C# (Windows Form and Console Apps), JavaScript and MySQL) (May-June 2023)
 - [x] B2 First (State Accredited Language Examination Certificate, the basic level) (May-June 2023)
 - [ ] C2 Proficiency (State Accredited Language Examination Certificate, the master level) (Not yet planned)
-- [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
+- [ ] Dual Partnership with a company (as a student) starting somewhere late 2023 or early 2024
 
  
 Last updated on: *08.04.2023*  
