@@ -20,7 +20,7 @@ I use **Cisco Packet Tracer** to study and make networks.
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
 Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisco Packet Tracer and Virtual Box.  
 
-***Currently I only use GitHub to just report bugs and share ideas on a Minecraft server, while also coding my own Discord bot, which uses Discord.js.***  
+***Currently I don't use GitHub much, I hope it changes in the future though. What I mainly used the site for in the past was to report bugs and share ideas for a now shut down Minecraft community server, as well coded my Discord bot mentioned above.***  
 
 **My future goals and accomplishments:**
 - [x] Basic level English Graduation (July 5, 2022 with 90% score ^^)
@@ -32,7 +32,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Dual Partnership with a company starting somewhere late 2023 or early 2024
 
  
-Last updated on: *06.30.2023*  
+Last updated on: *08.04.2023*  
 Using **US** format.  
 
 
