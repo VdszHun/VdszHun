@@ -2,7 +2,7 @@
 
 I'm Vdsz, an IT, Networking and Programming student in Hungary.  
   
-Currently I study: 
+I studied before (2+ years of basic knowledge for most): 
 - **C#**
 - **HTML**
 - **CSS**
