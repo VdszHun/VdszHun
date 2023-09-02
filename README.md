@@ -17,7 +17,7 @@ I started studying recently (less than 3 months of experience):
 - **Technical Programming**
 - **Technical Documentation Practice (CAD/AutoCAD)**
 - **Data Transmission Networks**
-- **Management Technique**
+- **Management Techniques**
 - **Advanced IT English**
 - **Employment related knowledge**
 
