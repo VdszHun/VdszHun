@@ -18,7 +18,7 @@ I started studying recently (less than 3 months of experience):
 - **Technical Documentation Practice (CAD/AutoCAD)**
 - **Data Transmission Networks**
 - **Management Technique**
-- **Advanced IT English 
+- **Advanced IT English**
 - **Employment related knowledge**
 
 I studied and used **Discord.js** on my own to develop a personal Discord bot which is an inactive project for now.  
