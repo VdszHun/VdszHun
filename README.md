@@ -13,6 +13,8 @@ I studied before (2+ years of basic knowledge for most):
 
 I started studying recently (less than 3 months of experience):
 
+- **PHP**
+- **Git**
 - **Electronics**
 - **Technical Programming**
 - **Technical Documentation Practice (CAD/AutoCAD)**
