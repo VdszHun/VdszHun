@@ -13,13 +13,13 @@ I studied before (2+ years of basic knowledge for most):
 
 I started studying recently (less than 3 months of experience):
 
-- **PHP**
+- **PHP with Laravel**
 - **Git**
 - **Electronics**
 - **Technical Programming**
-- **Technical Documentation Practice (CAD/AutoCAD)**
+- **Technical Documentation Practice (SolidWorks)**
 - **Data Transmission Networks**
-- **Management Techniques**
+- **Control Technics**
 - **Advanced IT English**
 - **Employment related knowledge**
 
@@ -41,7 +41,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Starting higher education (2024 September)
 
  
-Last updated on: *09.02.2023*  
+Last updated on: *09.18.2023*  
 Using **US** format.  
 
 
