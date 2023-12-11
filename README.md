@@ -13,20 +13,15 @@ I studied before (2+ years of basic knowledge for most):
 
 I started studying recently (less than 3 months of experience):
 
-- **PHP with Laravel**
+- **PHP, Blade and Laravel**
 - **Git**
-- **Electronics**
-- **Technical Programming**
-- **Technical Documentation Practice (SolidWorks)**
-- **Data Transmission Networks**
-- **Control Technics**
-- **Advanced IT English**
-- **Employment related knowledge**
+- **Arduino IDE (C++ variant)**
+- **SolidWorks 2020**
 
 I studied and used **Discord.js** on my own to develop a personal Discord bot which is an inactive project for now.  
 I use **Cisco Packet Tracer** to study and make networks.    
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
-Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisco Packet Tracer and Virtual Box.  
+Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Arduino IDE 2.2.1, Cisco Packet Tracer and Virtual Box.  
 
 ***Currently I don't use GitHub much, I hope it changes in the future though. What I mainly used the site for in the past was to report bugs and share ideas for a now shut down Minecraft community server, as well coded my Discord bot mentioned above.***  
 
@@ -40,7 +35,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Cisc
 - [ ] Starting higher education (2024 September)
 
  
-Last updated on: *10.23.2023*  
+Last updated on: *12.11.2023*  
 Using **US** format.  
 
 
