@@ -50,7 +50,7 @@ Using **US** format.
 ##
 
 <div> 
-  <a href = "https://twitter.com/VdszHun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href= "https://twitter.com/VdszHun" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/VdszHun/VdszHun/blob/output/github-contribution-grid-snake.svg)
   
