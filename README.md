@@ -16,12 +16,12 @@ I started studying recently (less than 3 months of experience):
 - **PHP, Blade and Laravel**
 - **Git**
 - **Arduino IDE (C++ variant)**
-- **SolidWorks 2020**
+- **SolidWorks 2023**
 
 I studied and used **Discord.js** on my own to develop a personal Discord bot which is an inactive project for now.  
 I use **Cisco Packet Tracer** to study and make networks.    
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
-Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Arduino IDE 2.2.1, Cisco Packet Tracer and Virtual Box.  
+Programs I use or used for studying: Visual Studio Code, Visual Studio 2022, XAMPP, Arduino IDE 2.2.1, Cisco Packet Tracer and Virtual Box.  
 
 ***Currently I don't use GitHub much, I hope it changes in the future though. What I mainly used the site for in the past was to report bugs and share ideas for a now shut down Minecraft community server, as well coded my Discord bot mentioned above.***  
 
@@ -35,7 +35,7 @@ Programs I use for studying: Visual Studio 2022, Visual Studio Code, XAMPP, Ardu
 - [ ] Starting higher education (2024 September)
 
  
-Last updated on: *12.11.2023*  
+Last updated on: *01.28.2024*  
 Using **US** format.  
 
 
