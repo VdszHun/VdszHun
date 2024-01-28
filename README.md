@@ -14,7 +14,7 @@ I studied before (2+ years of basic knowledge for most):
 I started studying recently (less than 3 months of experience):
 
 - **PHP, Blade and Laravel**
-- **Git**
+- **GitHub on a basic level, such as repos, commits, etc.**
 - **Arduino IDE (C++ variant)**
 - **SolidWorks 2023**
 
