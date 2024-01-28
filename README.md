@@ -45,7 +45,7 @@ Using **US** format.
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,github,cs,html,css,bootstrap,js,mysql,linux,arduino,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,github,cs,html,css,bootstrap,js,mysql,linux,arduino,cpp,vscode,visualstudio&theme=dark)](https://skillicons.dev)
 
 ##
 
