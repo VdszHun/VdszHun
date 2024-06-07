@@ -11,15 +11,21 @@ I studied before (2+ years of basic knowledge for most):
 - **MySQL**
 - **Ubuntu Linux**.
 
-I started studying recently (less than 3 months of experience):
+I started studying recently (less than 1 year of experience):
 
 - **PHP, Blade and Laravel**
 - **GitHub on a basic level, such as repos, commits, etc.**
 - **Arduino IDE (C++ variant)**
-- **SolidWorks 2023**
+
+I spent the most amount of time with these languages or frameworks, etc. in the past 1 year:
+
+- **PHP, Blade and Laravel**
+- **Arduino IDE (C++ variant)**
+- **Bootstrap**
+- **MySQL**
 
 I studied and used **Discord.js** on my own to develop a personal Discord bot which is an inactive project for now.  
-I use **Cisco Packet Tracer** to study and make networks.    
+I used **Cisco Packet Tracer** to study and make networks.    
 I had a few classes about **Debian Linux**, but my knowledge of that is nowhere near as of Ubuntu Linux.  
 Programs I use or used for studying: Visual Studio Code, Visual Studio 2022, XAMPP, Arduino IDE 2.2.1, Cisco Packet Tracer and Virtual Box.  
 
@@ -33,9 +39,10 @@ Programs I use or used for studying: Visual Studio Code, Visual Studio 2022, XAM
 - [x] B2 First (State Accredited Language Examination Certificate, the basic level) (May-June 2023)
 - [ ] C2 Proficiency (State Accredited Language Examination Certificate, the master level) (Not yet planned)
 - [ ] Starting higher education (2024 September)
+- [ ] Succesfully becoming employed (Late 2024? if higher education won't be an option)
 
  
-Last updated on: *03.19.2024*  
+Last updated on: *06.07.2024*  
 Using **US** format.  
 
 
