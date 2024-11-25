@@ -1,10 +1,13 @@
 # Hello there! 
-
-I'm Vdsz, an IT, Networking and Programming student in Hungary. While I have learned bits and pieces of all these major parts of IT, my primary interest in it is programming.
-
+ 
+I'm Vdsz, an IT, Networking and Programming student in Hungary. While I have learned bits and pieces of all these major parts of IT, my primary interest in it is programming.  
+ 
+I learned and practiced PHP, Blade, Laravel, Arduino (C++ variant), HTML, Bootstrap, JavaScript and MySQL during 2024 Q1 and Q2.  
+I learned and practiced basic levels of C, HTML, CSS, Bootstrap and JavaScript during 2024 Q3 and Q4.  
+ 
 ***Currently I don't use GitHub much. What I mainly used the site for in the past was to report bugs and share ideas for a now shut down Minecraft community server, coded my Discord bot, as well as uploaded, supervised and maintained a school project. The about me used to have more information but as of now it is pointless to put it back in, maybe once I'll be more active.***  
  
-Last updated on: *08.31.2024*  
+Last updated on: *11.25.2024*  
 Using **US** format.  
 
 
@@ -14,7 +17,7 @@ Using **US** format.
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,github,cs,html,css,bootstrap,js,mysql,linux,arduino,cpp,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,github,c,cpp,cs,html,css,bootstrap,js,mysql,linux,arduino,vscode,visualstudio&theme=dark)](https://skillicons.dev)
 
 ##
 
